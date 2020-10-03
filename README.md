@@ -5,7 +5,7 @@
 Antonio Ercolani<br/>
 Simone Gheller<br/>
 Riccardo Nannini<br/><br/>
-Project description -> Prerequisites.pfd<br/>
+[Project description](https://github.com/antonio-ercolani/Software_Engineering_Project_2020/blob/master/Santorini%20rules.pdf)<br/>
 
 ## Regole Complete + CLI + GUI + Socket + 1 FA
 Advanced functionality: Advanced gods (Zeus, Ares, Hypnus, Poseidon, Hera)
