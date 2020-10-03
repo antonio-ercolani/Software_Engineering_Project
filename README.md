@@ -1,8 +1,11 @@
 # Progetto Ingegneria del Software AA 2019/20
 
+
+
 Antonio Ercolani<br/>
 Simone Gheller<br/>
-Riccardo Nannini<br/>
+Riccardo Nannini<br/><br/>
+Project description -> Prerequisites.pfd<br/>
 
 ## Regole Complete + CLI + GUI + Socket + 1 FA
 Advanced functionality: Advanced gods (Zeus, Ares, Hypnus, Poseidon, Hera)
